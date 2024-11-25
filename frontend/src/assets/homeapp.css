@@ -1,0 +1,10 @@
+.mt-6 {
+    display: flex;
+    margin: 1rem;
+    width: 35%;
+    position: relative;
+    left: 20% !important;
+  }
+.mt-6 a{
+    margin-left: 5px;
+}

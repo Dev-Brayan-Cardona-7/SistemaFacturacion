@@ -1,0 +1,12 @@
+.ventas {
+    align-content: center;
+}
+
+
+.formularioscrudventas {
+    position: relative;
+    left: 2%;
+    width: 32%;
+    bottom: 0rem;
+    margin-inline: auto;
+}
